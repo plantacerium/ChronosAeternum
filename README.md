@@ -1,4 +1,4 @@
-# ⚜️ CHRONOS PLANTACERIUM ⚜️
+# ⚜️ CHRONOS AETERNUM PLANTACERIUM ⚜️
 ### *Aeternum Precision Archive — Time Experience Snapshots.*
 
 [![Rust](https://img.shields.io/badge/Rust-2021-DE3423?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
