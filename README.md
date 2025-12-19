@@ -5,7 +5,7 @@
 [![Dioxus](https://img.shields.io/badge/Dioxus-0.6-5f62ff?style=for-the-badge)](https://dioxuslabs.com/)
 [![Aesthetic](https://img.shields.io/badge/Aesthetic-Celestial%20Gold-D4AF37?style=for-the-badge)]()
 
-**Chronos Plantacerium** is a sacred horological instrument designed to transform the ephemeral passage of time into a permanent inventory of human experience. Drawing inspiration from celestial mechanics and high-jewelry precision, it provides a meditative interface for anchoring your consciousness in the void.
+**Chronos Aeternum Plantacerium** is a sacred horological instrument designed to transform the ephemeral passage of time into a permanent inventory of human experience. Drawing inspiration from celestial mechanics and high-jewelry precision, it provides a meditative interface for anchoring your consciousness in the void.
 
 
 ## Time Observer Interface
@@ -51,12 +51,12 @@ Ensure you have the Rust toolchain installed.
 
 ```bash
 # Clone the vault
-git clone https://github.com/your-repo/chronos-plantacerium
+git clone https://github.com/plantacerium/ChronosAeternum
 
 # Enter the void
-cd chronos-plantacerium
+cd ChronosAeternum
 
-# Invoke the chronometer
+# Invoke the watch
 cargo run
 ```
 
