@@ -595,7 +595,7 @@ fn App() -> Element {
 
                                 // Input Section
                                 textarea {
-                                    style: "width: 100%; height: 220px; background: #000; color: #FCF6BA; border: 1px solid #1a1a1a; padding: 35px; font-family: 'Montserrat', sans-serif; font-size: 1.2rem; outline: none; line-height: 1.8; resize: none;",
+                                    style: "height: 220px; background: #000; color: #FCF6BA; border: 1px solid #1a1a1a; padding: 35px; font-family: 'Montserrat', sans-serif; font-size: 1.2rem; outline: none; line-height: 1.8; resize: none;",
                                     value: "{note_content}",
                                     placeholder: "Commit the essence of this temporal anchor to memory...",
                                     oninput: move |e| {
