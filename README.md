@@ -51,7 +51,7 @@ Ensure you have the Rust toolchain installed.
 
 ```bash
 # Clone the vault
-git clone https://github.com/plantacerium/ChronosAeternum
+git clone https://github.com/plantacerium/ChronosAeternum.git
 
 # Enter the void
 cd ChronosAeternum
