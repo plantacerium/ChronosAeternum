@@ -120,7 +120,7 @@ fn App() -> Element {
                 top: 50%; left: 50%;
                 transform: translate(-50%, -50%);
                 z-index: 1;
-                opacity: 0.3;
+                opacity: 0.8;
                 animation: rotate-mandala-ccw 600s linear infinite;
                 pointer-events: none;
             }}
